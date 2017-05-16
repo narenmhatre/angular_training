@@ -3,4 +3,4 @@
 *
 * Description
 */
-angular.module('hello-world', ['hello-world.HelloWorldController', 'hello-world.UsersController']);
+angular.module('hello-world', ['hello-world.HelloWorldController', 'hello-world.UsersController', 'hello-world.booksDetailController']);
